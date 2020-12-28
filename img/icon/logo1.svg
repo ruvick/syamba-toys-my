@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355.44" height="75.36" viewBox="0 0 355.44 75.36">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 357 76">
+      <image width="357" height="76" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="Сгруппировать_135" data-name="Сгруппировать 135" transform="translate(3939.005 3823.404)">
+    <rect id="Прямоугольник_3" data-name="Прямоугольник 3" width="355.44" height="75.36" transform="translate(-3939.005 -3823.404)" opacity="0.75" fill="url(#pattern)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g id="Сгруппировать_134" data-name="Сгруппировать 134">
+      <g id="Сгруппировать_133" data-name="Сгруппировать 133">
+        <g id="Сгруппировать_52" data-name="Сгруппировать 52">
+          <g id="Сгруппировать_47" data-name="Сгруппировать 47">
+            <path id="Контур_23" data-name="Контур 23" d="M-3911.254-3783.284c-4.45-2.316-5.4-10.439-1.913-14.383,4.044-4.578,12.834-1.333,16.167,0l1.167-9.833a57.46,57.46,0,0,0-8.363-3.659c-14.885-5.022-29.363,11.46-27.429,25.368,1.04,7.48,5.385,14.42,12.232,17.833,3.964,1.975,9.387,2.171,13.759,1.263,6.707-1.391,8.745-4.013,8.8-3.449-.314-3.148-.118-8.915-.906-15.933C-3902.068-3782.7-3907.46-3781.31-3911.254-3783.284Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_49" data-name="Сгруппировать 49">
+            <g id="Сгруппировать_48" data-name="Сгруппировать 48">
+              <path id="Контур_24" data-name="Контур 24" d="M-3913.182-3786.619c-4.451-2.315-5.065-8.348-1.582-12.292,4.043-4.577,11.826-2.478,16.462-.935.231-3.3,1.339-10.222,1.339-10.222s-3.409-3.671-7.434-4.546c-15.35-3.335-29.363,11.46-27.428,25.368,1.039,7.48,5.385,14.42,12.232,17.833,3.964,1.975,9.386,2.171,13.759,1.263,6.706-1.391,10.248-4.012,10.3-3.449-.314-3.148-.118-8.914-.906-15.933C-3901.157-3784.606-3909.388-3784.644-3913.182-3786.619Z" fill="#e50019"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_51" data-name="Сгруппировать 51">
+            <g id="Сгруппировать_50" data-name="Сгруппировать 50">
+              <path id="Контур_25" data-name="Контур 25" d="M-3901.842-3782.48a.618.618,0,0,0-.795.365c-.471,1.265-4.313,2.006-6.215,1.926a14.706,14.706,0,0,1-5.294-1.457,12.83,12.83,0,0,1-7.151-10.014,14.641,14.641,0,0,1,4.1-13.052c2.652-2.437,9.165-3.951,12.905-3a.62.62,0,0,0,.753-.447.62.62,0,0,0-.448-.753c-4.138-1.052-11.1.576-14.047,3.287a15.891,15.891,0,0,0-4.484,14.16,14.046,14.046,0,0,0,7.863,10.946,15.915,15.915,0,0,0,5.752,1.565c.224.009.513.007.846-.01,2.071-.105,5.857-.775,6.581-2.721A.619.619,0,0,0-3901.842-3782.48Z" fill="#fffdf9"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_58" data-name="Сгруппировать 58">
+          <g id="Сгруппировать_53" data-name="Сгруппировать 53">
+            <path id="Контур_26" data-name="Контур 26" d="M-3828.905-3800.62s-4.561,13.027-6.929,18.054c-.164.35-7.609-17.157-7.873-18.4a104.341,104.341,0,0,0-12.268.679c.661,11.869.574,28.091.451,30.965a29.838,29.838,0,0,0,7.461-.054c.817-10.253,1.309-12.217,1.73-19.738,2.513,7.253,6.528,19.21,6.528,19.21l8.616-.7s2.585-8.677,4.4-14.04c.959,7.1.8,9.545,2.112,18.262,4.782-1.088,6.193-1.766,12.012-2.948-.9-11.4-2.67-21.565-3.991-33.059C-3825.384-3801.346-3828.905-3800.62-3828.905-3800.62Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_55" data-name="Сгруппировать 55">
+            <g id="Сгруппировать_54" data-name="Сгруппировать 54">
+              <path id="Контур_27" data-name="Контур 27" d="M-3830.139-3803.23s-4.561,13.027-6.928,18.055c-.164.349-7.609-17.158-7.874-18.4a104.3,104.3,0,0,0-12.268.679c.661,11.869.574,28.091.451,30.965a26.047,26.047,0,0,0,6.969-.054c.816-10.253,1.308-12.217,1.729-19.737,2.513,7.252,7.021,19.209,7.021,19.209l8.616-.7s2.586-8.677,4.4-14.04c.96,7.1.8,9.545,2.113,18.262,4.782-1.088,5.409-1.008,11.229-2.19-.9-11.4-2.67-21.565-3.992-33.059A108.794,108.794,0,0,1-3830.139-3803.23Z" fill="#ffd400"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_57" data-name="Сгруппировать 57">
+            <g id="Сгруппировать_56" data-name="Сгруппировать 56">
+              <path id="Контур_28" data-name="Контур 28" d="M-3821.093-3783.47c-1.4-9.739-2.425-16.71-2.909-17.692l-.349-.71-.377.7c-.627,1.16-2.048,4.262-3.7,7.854-2.809,6.129-6.95,15.165-8.433,17.179-.976-1.517-4-6.985-6.7-11.872-3.4-6.165-6.621-11.988-7.279-12.779l-.559-.671-.157.859c-.463,2.525-.942,8.681-1.405,14.635-.327,4.2-.665,8.538-.992,11.544a.409.409,0,0,0,.363.451.408.408,0,0,0,.45-.362c.329-3.019.667-7.366.994-11.57.407-5.23.826-10.617,1.231-13.521,1.246,2.045,4.084,7.183,6.639,11.81,4.058,7.349,6.56,11.851,7.075,12.406l.262.283.3-.246c1.179-.973,4.6-8.312,8.952-17.8,1.308-2.855,2.474-5.4,3.2-6.888.589,2.692,1.674,10.255,2.572,16.514.658,4.582,1.279,8.91,1.66,11.06a.409.409,0,0,0,.431.337l.043-.006a.409.409,0,0,0,.331-.473C-3819.817-3774.573-3820.437-3778.9-3821.093-3783.47Z" fill="#fffdf9"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_69" data-name="Сгруппировать 69">
+          <g id="Сгруппировать_59" data-name="Сгруппировать 59">
+            <path id="Контур_29" data-name="Контур 29" d="M-3884.046-3779.442l-9.346,12.741,10.636-1.181,5.655-10.8c.984-.046,1.951-.133,2.874-.245.827,3.673.381,6.379,1.257,11.046,2.945.065,6.944.3,11.8.05l-.871-33.02c-9.765-1.162-23.421-3.656-28.338,5.3-2.269,4.134-1.072,10.871,2.526,14A10.865,10.865,0,0,0-3884.046-3779.442Zm1.018-11.515c-.093-4.349,5.469-3.491,8.095-3.463,0,0,.61,8.289.7,9.159C-3876.724-3784.72-3882.911-3785.486-3883.028-3790.957Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_62" data-name="Сгруппировать 62">
+            <g id="Сгруппировать_61" data-name="Сгруппировать 61">
+              <g id="Сгруппировать_60" data-name="Сгруппировать 60">
+                <path id="Контур_30" data-name="Контур 30" d="M-3884.276-3781.711l-9.346,12.741,10.636-1.181,5.654-10.8c.985-.046,1.952-.134,2.875-.245.091.192,1.258,11.046,1.258,11.046,2.944.065,6.111.123,10.187-.127l-.872-33.019c-8.98-1.162-21.806-3.48-26.722,5.48-2.269,4.134-1.072,10.87,2.526,14A10.865,10.865,0,0,0-3884.276-3781.711Zm1.018-11.515c-.093-4.349,5.469-3.491,8.1-3.463,0,0,.609,8.289.694,9.159C-3876.954-3786.989-3883.141-3787.755-3883.258-3793.226Z" fill="#f8820a"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_64" data-name="Сгруппировать 64">
+            <g id="Сгруппировать_63" data-name="Сгруппировать 63">
+              <path id="Контур_31" data-name="Контур 31" d="M-3870.293-3801.814a.357.357,0,0,1,.391.319c.259,2.558.61,10.364.851,16.817.13,3.46.236,6.712.3,9.156.109,4.261.109,4.261-.214,4.37a.354.354,0,0,1-.078.016.356.356,0,0,1-.374-.241.36.36,0,0,1,0-.225c.147-1.361-.722-25.187-1.192-29.821A.357.357,0,0,1-3870.293-3801.814Z" fill="#fffdf9"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_66" data-name="Сгруппировать 66">
+            <g id="Сгруппировать_65" data-name="Сгруппировать 65">
+              <path id="Контур_32" data-name="Контур 32" d="M-3872.354-3801.6a.356.356,0,0,1,.325.385.356.356,0,0,1-.384.325c-2.175-.182-9.537-.482-12.934,3.317-1.526,1.705-2.009,4.038-1.437,6.934.507,2.57,2.5,4.391,5.919,5.412a25.905,25.905,0,0,0,7.572.881.356.356,0,0,1,.364.348.356.356,0,0,1-.32.363l-.028,0a26.686,26.686,0,0,1-7.791-.911c-3.694-1.1-5.853-3.107-6.415-5.957-.618-3.127-.078-5.667,1.6-7.547C-3882.261-3802.092-3874.612-3801.788-3872.354-3801.6Z" fill="#fffdf9"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_68" data-name="Сгруппировать 68">
+            <g id="Сгруппировать_67" data-name="Сгруппировать 67">
+              <path id="Контур_33" data-name="Контур 33" d="M-3884.229-3776.728a56.2,56.2,0,0,0,3.579-5.525.357.357,0,0,1,.476-.167.356.356,0,0,1,.166.476,56.091,56.091,0,0,1-3.635,5.622c-1.308,1.887-2.66,3.838-3.577,5.38a.356.356,0,0,1-.271.172.356.356,0,0,1-.218-.048.357.357,0,0,1-.124-.489C-3886.9-3772.87-3885.543-3774.831-3884.229-3776.728Z" fill="#fffdf9"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_77" data-name="Сгруппировать 77">
+          <g id="Сгруппировать_70" data-name="Сгруппировать 70">
+            <path id="Контур_34" data-name="Контур 34" d="M-3787.394-3788.9l-6.939-.812c-.985.038-1.952.118-2.876.223a30.36,30.36,0,0,1-.57-5.155c-.051-1,14.041-.624,14.041-.624s-.54-6.089-.654-6.8c-.036-.227-13.946,1.764-13.989,1.527-2.944-.088-6.111-.17-10.973.042l.616,33.025c9.755,1.238,22.563,3.654,27.549-5.267,2.3-4.117,1.156-10.862-2.418-14.019A10.847,10.847,0,0,0-3787.394-3788.9Zm-1.108,11.506c.06,4.349-5.5,3.448-8.122,3.4,0,0-.545-8.293-.623-9.163C-3794.757-3783.678-3788.576-3782.864-3788.5-3777.393Z" fill="#0b0c0d"/>
+          </g>
+          <path id="Контур_35" data-name="Контур 35" d="M-3785.219-3788.527a10.849,10.849,0,0,0-3.787-2.136,28.459,28.459,0,0,0-9.815-.589c-.044-.095-.328-2.77-.606-5.464,3.3.073,14.233-.255,14.233-.255.339-2.325-.594-4.575-.584-6.733-6.081.138-18.425.267-24.772,0l.514,9.872h.013l.459,24.593c8.97,1.232,21.777,3.648,26.763-5.273C-3780.5-3778.625-3781.644-3785.37-3785.219-3788.527Zm-13.016,12.77s-.546-8.293-.624-9.163c2.49-.522,8.671.291,8.746,5.763C-3790.054-3774.807-3795.609-3775.708-3798.235-3775.757Z" fill="#8abb2a"/>
+          <g id="Сгруппировать_72" data-name="Сгруппировать 72">
+            <g id="Сгруппировать_71" data-name="Сгруппировать 71">
+              <path id="Контур_36" data-name="Контур 36" d="M-3803.145-3770.67a.356.356,0,0,1-.388-.321c-.239-2.561-.53-10.369-.721-16.823-.1-3.461-.183-6.714-.227-9.158-.076-4.263-.076-4.263.248-4.368a.356.356,0,0,1,.078-.017.357.357,0,0,1,.372.245.355.355,0,0,1,0,.225c-.157,1.36.528,25.192.962,29.829A.357.357,0,0,1-3803.145-3770.67Z" fill="#fffdf9"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_74" data-name="Сгруппировать 74">
+            <g id="Сгруппировать_73" data-name="Сгруппировать 73">
+              <path id="Контур_37" data-name="Контур 37" d="M-3801.082-3770.869a.356.356,0,0,1-.322-.387.356.356,0,0,1,.387-.322c2.174.2,9.532.556,12.96-3.217,1.538-1.693,2.039-4.022,1.49-6.922-.488-2.574-2.465-4.411-5.878-5.459a25.948,25.948,0,0,0-7.564-.939.355.355,0,0,1-.361-.351.355.355,0,0,1,.322-.36h.028a26.634,26.634,0,0,1,7.784.97c3.686,1.132,5.828,3.153,6.369,6.007.593,3.132.034,5.667-1.663,7.534C-3791.179-3770.3-3798.825-3770.662-3801.082-3770.869Z" fill="#fffdf9"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_76" data-name="Сгруппировать 76">
+            <g id="Сгруппировать_75" data-name="Сгруппировать 75">
+              <path id="Контур_38" data-name="Контур 38" d="M-3795.522-3801.077a56.066,56.066,0,0,0-6.579.175.357.357,0,0,1-.407-.3.356.356,0,0,1,.3-.406,56.271,56.271,0,0,1,6.692-.183c2.3.011,4.67.022,6.46-.094a.354.354,0,0,1,.3.125.357.357,0,0,1,.084.207.356.356,0,0,1-.333.379C-3790.826-3801.055-3793.213-3801.067-3795.522-3801.077Z" fill="#fffdf9"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_86" data-name="Сгруппировать 86">
+          <g id="Сгруппировать_80" data-name="Сгруппировать 80">
+            <g id="Сгруппировать_79" data-name="Сгруппировать 79">
+              <g id="Сгруппировать_78" data-name="Сгруппировать 78">
+                <path id="Контур_39" data-name="Контур 39" d="M-3609.648-3789.809c-.7-3.561,6.281-2.859,6.289-3.486.056-4.288.482-5.864.526-9.237-9.371-.179-17.718,3.083-17.924,8.344-.4,10.224,7.171,9.515,6.979,13.1-.145,2.711-4.712,3.866-7.3,2.785.121.051-.959,9.281-.829,10.047,5.811-.144,22.129.114,21.217-12.37C-3601.3-3788.98-3609.215-3787.614-3609.648-3789.809Z" fill="#0b0c0d"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_83" data-name="Сгруппировать 83">
+            <g id="Сгруппировать_82" data-name="Сгруппировать 82">
+              <g id="Сгруппировать_81" data-name="Сгруппировать 81">
+                <path id="Контур_40" data-name="Контур 40" d="M-3610.517-3792.173c-.7-3.56,5.124-2.858,5.133-3.486.056-4.287.481-5.863.525-9.237-9.37-.178-16.56,3.083-16.767,8.344-.4,10.225,7.172,9.515,6.979,13.1-.144,2.71-4.712,3.865-7.3,2.784.121.051-.959,9.281-.829,10.048,5.811-.145,22.129.113,21.218-12.37C-3602.166-3791.344-3610.084-3789.978-3610.517-3792.173Z" fill="#ef675d"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_85" data-name="Сгруппировать 85">
+            <g id="Сгруппировать_84" data-name="Сгруппировать 84">
+              <path id="Контур_41" data-name="Контур 41" d="M-3611.817-3788.853c-2.427-1.383-4.523-2.579-4.627-5.628a4.849,4.849,0,0,1,3.482-4.878c2.267-.865,4.464-.582,4.752-.287a.432.432,0,0,0,.532.249.425.425,0,0,0,.278-.536c-.283-.869-2.31-1.015-4.073-.709-1.409.243-6,1.409-5.832,6.19.121,3.523,2.631,4.953,5.058,6.337,2.541,1.448,4.94,2.816,5.271,6.432a3.653,3.653,0,0,1-1.179,3.235c-2.741,2.5-9.144,2.08-11.171,1.735a.43.43,0,0,0-.5.347.427.427,0,0,0,.351.492,23.568,23.568,0,0,0,3.742.281c2.8,0,6.223-.46,8.159-2.229a4.508,4.508,0,0,0,1.452-3.938C-3606.49-3785.816-3609.32-3787.43-3611.817-3788.853Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_97" data-name="Сгруппировать 97">
+          <g id="Сгруппировать_89" data-name="Сгруппировать 89">
+            <g id="Сгруппировать_88" data-name="Сгруппировать 88">
+              <g id="Сгруппировать_87" data-name="Сгруппировать 87">
+                <path id="Контур_42" data-name="Контур 42" d="M-3639.6-3800.668s-.174,12.116-.85,13.715c-.563-2.132-4.167-14.684-4.019-14.725a115.634,115.634,0,0,1-13.811.092l11.45,26.419s-3.8,9.415-4.669,11.04c2.174.066,13.335-.172,13.335-.172,9.208-23.371,12.358-29.736,15.27-36.668C-3624.877-3801.081-3639.6-3800.668-3639.6-3800.668Z" fill="#0b0c0d"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_92" data-name="Сгруппировать 92">
+            <g id="Сгруппировать_91" data-name="Сгруппировать 91">
+              <g id="Сгруппировать_90" data-name="Сгруппировать 90">
+                <path id="Контур_43" data-name="Контур 43" d="M-3639.64-3803.229s-2.862,12.662-3.539,14.261c-.562-2.132-4.166-14.684-4.019-14.725-5.837.534-12.325.836-12.325.836l11.45,26.419s-2.593,8.125-3.465,9.75c2.173.066,11.933-.172,11.933-.172,9.208-23.371,12.358-29.736,15.27-36.668C-3626.315-3803.642-3639.64-3803.229-3639.64-3803.229Z" fill="#e30d68"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_94" data-name="Сгруппировать 94">
+            <g id="Сгруппировать_93" data-name="Сгруппировать 93">
+              <path id="Контур_44" data-name="Контур 44" d="M-3641.87-3776.841c-.164-.375-.4-.918-.7-1.593-.6-1.348-1.437-3.222-2.382-5.334-3.226-7.219-7.647-17.106-8.1-18.384a.451.451,0,0,0-.574-.274.445.445,0,0,0-.276.568c.463,1.312,4.892,11.218,8.125,18.451,1.514,3.385,2.847,6.367,3.217,7.226a.446.446,0,0,0,.041.139c.054.112.2.413.475.413a.476.476,0,0,0,.2-.048c.4-.181.224-.593.168-.728C-3641.724-3776.5-3641.787-3776.652-3641.87-3776.841Z" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_96" data-name="Сгруппировать 96">
+            <g id="Сгруппировать_95" data-name="Сгруппировать 95">
+              <path id="Контур_45" data-name="Контур 45" d="M-3631.676-3802.169a.452.452,0,0,0-.6.206c-.891,1.819-3.884,9.417-6.779,16.764-2.836,7.2-5.77,14.645-6.667,16.511a.442.442,0,0,0,.212.594.446.446,0,0,0,.193.043.45.45,0,0,0,.407-.253c.912-1.9,3.721-9.024,6.694-16.571,2.889-7.331,5.875-14.912,6.75-16.7A.443.443,0,0,0-3631.676-3802.169Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_112" data-name="Сгруппировать 112">
+          <g id="Сгруппировать_102" data-name="Сгруппировать 102">
+            <g id="Сгруппировать_99" data-name="Сгруппировать 99">
+              <g id="Сгруппировать_98" data-name="Сгруппировать 98">
+                <path id="Контур_46" data-name="Контур 46" d="M-3751.072-3767.951l-.058.049.061-.046v0Z" fill="#0b0c0d" fill-rule="evenodd"/>
+              </g>
+            </g>
+            <g id="Сгруппировать_101" data-name="Сгруппировать 101">
+              <g id="Сгруппировать_100" data-name="Сгруппировать 100">
+                <path id="Контур_47" data-name="Контур 47" d="M-3748-3782.179c-.031-2.4.159-4.745.142-7.144-.036-4.878-1.225-11.821-12.549-11.821-11.659,0-10.6,7.852-10.6,7.852a33.811,33.811,0,0,0,6.613,1.842c.181-2.245.836-2.809,2.763-2.245,3.219.943,2.92,3.56,2.876,4.757a4.289,4.289,0,0,0-1.038-.565c-4.607-1.794-12.026.353-15.093,3.615-3.614,3.845-4.19,9.96-.656,13.989,4.131,4.71,14.465,3.843,17.786-1.131,1.272,6.523,9.886,3.778,11.585,3.071.123-.05.341-4.919.335-4.922S-3747.907-3774.927-3748-3782.179Zm-11.378,6.557s-3.839,2.315-5.888.457c-4.043-3.665,1.317-8.717,5.934-7.3.014.025.028.05.045.074s.037.039.055.058A54.537,54.537,0,0,0-3759.378-3775.622Z" fill="#0b0c0d"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_107" data-name="Сгруппировать 107">
+            <g id="Сгруппировать_104" data-name="Сгруппировать 104">
+              <g id="Сгруппировать_103" data-name="Сгруппировать 103">
+                <path id="Контур_48" data-name="Контур 48" d="M-3751.941-3772.234l-.059.049.061-.046v0Z" fill="#ffac2e" fill-rule="evenodd"/>
+              </g>
+            </g>
+            <g id="Сгруппировать_106" data-name="Сгруппировать 106">
+              <g id="Сгруппировать_105" data-name="Сгруппировать 105">
+                <path id="Контур_49" data-name="Контур 49" d="M-3750.15-3784.193c-.031-2.4.159-4.745.142-7.145-.036-4.878-.325-11.82-11.649-11.82-11.66,0-10.6,7.851-10.6,7.851a33.825,33.825,0,0,0,6.613,1.842c.182-2.245.837-2.809,2.764-2.245,3.218.943,2.92,3.56,2.875,4.758a4.3,4.3,0,0,0-1.038-.566c-4.607-1.793-12.026.354-15.092,3.616-3.614,3.845-4.191,9.959-.657,13.988,4.132,4.71,14.465,3.844,17.787-1.131,1.271,6.523,8.928,3.778,10.627,3.072.123-.051.3-4.338.352-4.914l-.016-.008C-3748.06-3776.905-3750.057-3776.942-3750.15-3784.193Zm-10.479,6.557s-3.838,2.315-5.888.457c-4.042-3.666,1.317-8.718,5.935-7.3a.709.709,0,0,0,.045.073.777.777,0,0,0,.054.059A54.537,54.537,0,0,0-3760.629-3777.636Z" fill="#00abe9"/>
+              </g>
+            </g>
+          </g>
+          <g id="Сгруппировать_109" data-name="Сгруппировать 109">
+            <g id="Сгруппировать_108" data-name="Сгруппировать 108">
+              <path id="Контур_50" data-name="Контур 50" d="M-3751.938-3774.381a2.954,2.954,0,0,1-2.3-.92c-1.713-1.857-1.322-6.153-1.134-8.218l.033-.355c.091-1.035.3-2.264.526-3.564a29,29,0,0,0,.662-6.655c-.392-4.76-3.046-7.5-7.09-7.336-3.576.147-7.083,2.616-7.08,4.986a.428.428,0,0,0,.431.425h0a.428.428,0,0,0,.43-.426c0-1.921,3.154-4.007,6.255-4.134,1.694-.071,5.691.43,6.2,6.554a28.5,28.5,0,0,1-.652,6.442c-.227,1.319-.442,2.564-.536,3.634l-.032.353c-.214,2.353-.614,6.735,1.356,8.868a3.824,3.824,0,0,0,2.938,1.2.428.428,0,0,0,.43-.426A.428.428,0,0,0-3751.938-3774.381Z" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_111" data-name="Сгруппировать 111">
+            <g id="Сгруппировать_110" data-name="Сгруппировать 110">
+              <path id="Контур_51" data-name="Контур 51" d="M-3769.04-3788.026a13,13,0,0,1,12.88,3,.432.432,0,0,0,.608.022.423.423,0,0,0,.022-.6,13.928,13.928,0,0,0-13.8-3.226,8.29,8.29,0,0,0-5.762,7.65c-.263,3.738,1.087,6.405,3.8,7.508a8.194,8.194,0,0,0,3.092.558,13.739,13.739,0,0,0,4.748-.933,19.57,19.57,0,0,0,7.8-5.437.423.423,0,0,0-.045-.6.434.434,0,0,0-.607.045c-4.084,4.7-10.661,7.207-14.661,5.58-2.377-.966-3.508-3.27-3.269-6.661A7.477,7.477,0,0,1-3769.04-3788.026Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_118" data-name="Сгруппировать 118">
+          <g id="Сгруппировать_113" data-name="Сгруппировать 113">
+            <path id="Контур_52" data-name="Контур 52" d="M-3664.464-3796.756a10.865,10.865,0,0,0-2.3-1.28,15.562,15.562,0,0,0-12.945.464c-3.425,1.57-5.595,4.359-7.047,7.871a16.693,16.693,0,0,0-.045,13.482c2.446,5.1,8.186,8.888,13.9,8.413.18-.015.358-.033.536-.054,8.662-1.037,13.29-9.34,12.847-17.6C-3659.736-3789.574-3661.167-3794.1-3664.464-3796.756Zm-4.928,12.229c-.149,2.63-1.68,5.491-3.795,5.967-2.507.564-4.019-1.577-4.46-3.9a6.34,6.34,0,0,1,.292-3.654c.851-1.851,3.477-3.525,5.56-2.858C-3669.964-3788.387-3669.279-3786.524-3669.392-3784.527Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_115" data-name="Сгруппировать 115">
+            <g id="Сгруппировать_114" data-name="Сгруппировать 114">
+              <path id="Контур_53" data-name="Контур 53" d="M-3664.684-3799.836a10.868,10.868,0,0,0-2.3-1.28,15.561,15.561,0,0,0-12.945.464c-3.426,1.57-5.6,4.359-7.048,7.871a16.693,16.693,0,0,0-.044,13.482c2.446,5.1,8.186,8.888,13.9,8.413.179-.015.357-.032.535-.054,8.663-1.037,13.291-9.34,12.848-17.6C-3659.956-3792.654-3661.388-3797.183-3664.684-3799.836Zm-4.929,12.229c-.148,2.63-1.68,5.491-3.794,5.967-2.507.564-4.019-1.577-4.461-3.9a6.335,6.335,0,0,1,.293-3.655c.851-1.851,3.477-3.524,5.559-2.858C-3670.185-3791.467-3669.5-3789.6-3669.613-3787.607Z" fill="#89137d"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_117" data-name="Сгруппировать 117">
+            <g id="Сгруппировать_116" data-name="Сгруппировать 116">
+              <path id="Контур_54" data-name="Контур 54" d="M-3673.321-3797.3c-.178.012-.361.031-.544.054h-.01a9.787,9.787,0,0,0-6.765,3.533,11.745,11.745,0,0,0-2.868,8.237c.412,5.129,3.436,10.163,9.261,9.847.053,0,.1-.011.158-.01a10.613,10.613,0,0,0,9.539-10.049c.145-2.771.054-5.912-1.726-8.2A7.713,7.713,0,0,0-3673.321-3797.3Zm7.808,11.562a9.635,9.635,0,0,1-8.646,9.136l-.14.009c-5.531.3-7.9-4.639-8.247-8.96a10.753,10.753,0,0,1,2.638-7.532,8.845,8.845,0,0,1,6.1-3.2l.049,0c.17-.022.34-.039.505-.051a6.747,6.747,0,0,1,6.215,3.048C-3665.453-3791.261-3665.378-3788.336-3665.513-3785.742Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_126" data-name="Сгруппировать 126">
+          <g id="Сгруппировать_119" data-name="Сгруппировать 119">
+            <path id="Контур_55" data-name="Контур 55" d="M-3684.783-3812.369c-10.985-.653-24.811,1.206-34.629,1.083.29,1.474,1.815,9.214,2.363,11.563,3.106-.083,6.192-.068,9.262-.016,1.668,12.278,1.666,21.226,2.841,31.437,2.622-.423,6.728-1.73,9.545-1.616l.475-29.52c3.548.07,7.073.1,10.573-.015C-3684.02-3803.859-3684.934-3808.086-3684.783-3812.369Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_121" data-name="Сгруппировать 121">
+            <g id="Сгруппировать_120" data-name="Сгруппировать 120">
+              <path id="Контур_56" data-name="Контур 56" d="M-3686.509-3815.265c-10.985-.653-24.812,1.207-34.63,1.084.291,1.474,1.816,9.214,2.364,11.563,3.1-.083,6.191-.068,9.262-.016,1.668,12.277,1.666,21.226,2.841,31.437,2.622-.423,6.727-1.73,9.544-1.616l.476-29.52c3.547.07,7.073.1,10.572-.015C-3685.747-3806.754-3686.66-3810.982-3686.509-3815.265Z" fill="#0063b0"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_123" data-name="Сгруппировать 123">
+            <g id="Сгруппировать_122" data-name="Сгруппировать 122">
+              <path id="Контур_57" data-name="Контур 57" d="M-3689.888-3809.116c-2.865.154-18.785.486-25.164.27a.451.451,0,0,0-.468.437.452.452,0,0,0,.437.468c6.4.217,22.37-.116,25.244-.271a.452.452,0,0,0,.428-.476A.453.453,0,0,0-3689.888-3809.116Z" fill="#fffdf9"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_125" data-name="Сгруппировать 125">
+            <g id="Сгруппировать_124" data-name="Сгруппировать 124">
+              <path id="Контур_58" data-name="Контур 58" d="M-3703.4-3807.794a.454.454,0,0,0-.323-.554.452.452,0,0,0-.553.322c-.227.86.1,6.613.642,15.926.449,7.642.912,15.545.772,17.655a.453.453,0,0,0,.422.482h.055a.453.453,0,0,0,.427-.422c.144-2.167-.321-10.1-.771-17.768C-3703.142-3799.126-3703.606-3807.031-3703.4-3807.794Z" fill="#fffdf9"/>
+            </g>
+          </g>
+        </g>
+        <g id="Сгруппировать_132" data-name="Сгруппировать 132">
+          <g id="Сгруппировать_127" data-name="Сгруппировать 127">
+            <path id="Контур_59" data-name="Контур 59" d="M-3738-3790.11s.115,2.676.165,6.727c8.747.091,14.117.272,23.1.174.259-2.578.066-3.075-.053-8.121Z" fill="#0b0c0d"/>
+          </g>
+          <g id="Сгруппировать_129" data-name="Сгруппировать 129">
+            <g id="Сгруппировать_128" data-name="Сгруппировать 128">
+              <path id="Контур_60" data-name="Контур 60" d="M-3738.875-3792.18s.114,2.677.165,6.728c8.747.091,14.117.272,23.1.174.259-2.578.065-3.075-.053-8.121Z" fill="#0092b7"/>
+            </g>
+          </g>
+          <g id="Сгруппировать_131" data-name="Сгруппировать 131">
+            <g id="Сгруппировать_130" data-name="Сгруппировать 130">
+              <path id="Контур_61" data-name="Контур 61" d="M-3717.621-3789.72c-2.671.329-16.711.67-19.734.67a.4.4,0,0,0-.4.4.4.4,0,0,0,.4.4c3.034,0,17.136-.343,19.832-.676a.4.4,0,0,0,.347-.444A.4.4,0,0,0-3717.621-3789.72Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
